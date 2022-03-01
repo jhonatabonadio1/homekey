@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "homekey",
+    "slug": "homekey",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
